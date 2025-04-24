@@ -1,0 +1,184 @@
+[
+	{
+		"id": "1",
+		"project_name": "ولزون - v1.0.0",
+		"tasks_name": "ساختار صفحه پروفایل",
+		"client_name": "رابرت مک ماهون",
+		"assignedto": [{
+				"assigneeName": "کرتیس ساینس",
+				"assigneeImg": "../../assets/images/users/avatar-1.jpg"
+			},{
+				"assigneeName": "جان رابلس",
+				"assigneeImg": "../../assets/images/users/avatar-3.jpg"
+			}
+		],
+		"due_date": "25 ژانویه، 2022",
+		"status": "Inprogress",
+		"priority": "High"
+	},
+	{
+		"id": "2",
+		"project_name": "اسکوت - v1.0.0",
+		"tasks_name": "عذرخواهی برای خطای خرید!",
+		"client_name": "ناتان کول",
+		"assignedto": [{
+				"assigneeName": "ویرجی پرایس",
+				"assigneeImg": "../../assets/images/users/avatar-5.jpg"
+			},{
+				"assigneeName": "دیگو نورس",
+				"assigneeImg": "../../assets/images/users/avatar-9.jpg"
+			},{
+				"assigneeName": "آنتونی میلز",
+				"assigneeImg": "../../assets/images/users/avatar-10.jpg"
+			}
+		],
+		"due_date": "23 اکتبر، 2021",
+		"status": "Completed",
+		"priority": "Medium"
+	},
+	{
+		"id": "3",
+		"project_name": "مینیا - v1.0.0",
+		"tasks_name": "یادآوری پس از راه‌اندازی/لیست پست",
+		"client_name": "جوزف پارکر",
+		"assignedto": [{
+				"assigneeName": "ویرجی پرایس",
+				"assigneeImg": "../../assets/images/users/avatar-5.jpg"
+			},{
+				"assigneeName": "ماریان آنجل",
+				"assigneeImg": "../../assets/images/users/avatar-6.jpg"
+			},{
+				"assigneeName": "جاننی والتون",
+				"assigneeImg": "../../assets/images/users/avatar-7.jpg"
+			},{
+				"assigneeName": "دونا وستون",
+				"assigneeImg": "../../assets/images/users/avatar-8.jpg"
+			}
+		],
+		"due_date": "05 اکتبر، 2021",
+		"status": "Pending",
+		"priority": "Low"
+	},
+	{
+		"id": "4",
+		"project_name": "داسون - v1.0.0",
+		"tasks_name": "تحقیقات کاربری",
+		"client_name": "دونالد پالمر",
+		"assignedto": [{
+				"assigneeName": "جیمز فوربس",
+				"assigneeImg": "../../assets/images/users/avatar-2.jpg"
+			}
+		],
+		"due_date": "11 دسامبر، 2021",
+		"status": "New",
+		"priority": "Low"
+	},
+	{
+		"id": "5",
+		"project_name": "مینیبل - v1.0.0",
+		"tasks_name": "ایجاد پروفایل برای ساخت حساب کاربری",
+		"client_name": "هنری بارد",
+		"assignedto": [{
+				"assigneeName": "جان رابلس",
+				"assigneeImg": "../../assets/images/users/avatar-3.jpg"
+			},{
+				"assigneeName": "آنتونی میلز",
+				"assigneeImg": "../../assets/images/users/avatar-10.jpg"
+			},{
+				"assigneeName": "دیگو نورس",
+				"assigneeImg": "../../assets/images/users/avatar-9.jpg"
+			}
+		],
+		"due_date": "11 ژانویه، 2019",
+		"status": "Inprogress",
+		"priority": "Medium"
+	},
+	{
+		"id": "6",
+		"project_name": "مینیمال - v2.1.0",
+		"tasks_name": "تغییر روند گزینه ایمیل",
+		"client_name": "تونیا نوبل",
+		"assignedto": [{
+				"assigneeName": "ماریان آنجل",
+				"assigneeImg": "../../assets/images/users/avatar-6.jpg"
+			},{
+				"assigneeName": "جاننی والتون",
+				"assigneeImg": "../../assets/images/users/avatar-7.jpg"
+			}
+		],
+		"due_date": "03 مارس، 2020",
+		"status": "Completed",
+		"priority": "High"
+	},
+	{
+		"id": "7",
+		"project_name": "دورسین - صفحه فرود",
+		"tasks_name": "طراحی بنر برای فیسبوک و توییتر",
+		"client_name": "کارتر",
+			"assignedto": [{
+				"assigneeName": "جان رابلس",
+				"assigneeImg": "../../assets/images/users/avatar-3.jpg"
+			},{
+				"assigneeName": "ماری گنت",
+				"assigneeImg": "../../assets/images/users/avatar-4.jpg"
+			},{
+				"assigneeName": "ویرجی پرایس",
+				"assigneeImg": "../../assets/images/users/avatar-5.jpg"
+			}
+		],
+		"due_date": "26 فوریه، 2019",
+		"status": "Pending",
+		"priority": "Medium"
+	},
+	{
+		"id": "8",
+		"project_name": "کسل - صفحه فرود",
+		"tasks_name": "طراحی لوگوی برند",
+		"client_name": "دیوید نیکولز",
+		"assignedto": [{
+				"assigneeName": "ماریان آنجل",
+				"assigneeImg": "../../assets/images/users/avatar-6.jpg"
+			},{
+				"assigneeName": "جاننی والتون",
+				"assigneeImg": "../../assets/images/users/avatar-7.jpg"
+			},{
+				"assigneeName": "دونا وستون",
+				"assigneeImg": "../../assets/images/users/avatar-8.jpg"
+			}
+		],
+		"due_date": "29 دسامبر، 2021",
+		"status": "Pending",
+		"priority": "High"
+	},
+	{
+		"id": "9",
+		"project_name": "دوت - قالب اپلیکیشن چت",
+		"tasks_name": "تقویم اضافی",
+		"client_name": "دیانا کهولر",
+		"assignedto": [{
+				"assigneeName": "ماری گنت",
+				"assigneeImg": "../../assets/images/users/avatar-4.jpg"
+			},{
+				"assigneeName": "ویرجی پرایس",
+				"assigneeImg": "../../assets/images/users/avatar-5.jpg"
+			}
+		],
+		"due_date": "13 ژوئن، 2020",
+		"status": "New",
+		"priority": "Low"
+	},
+	{
+		"id": "10",
+		"project_name": "سایموکس v1.0.0",
+		"tasks_name": "افزودن فهرست مخاطبین داینامیک",
+		"client_name": "آر اچ نیکولز",
+		"assignedto": [{
+				"assigneeName": "جان رابلس",
+				"assigneeImg": "../../assets/images/users/avatar-3.jpg"
+			}
+		],
+		"due_date": "15 دسامبر، 2020",
+		"status": "Inprogress",
+		"priority": "Medium"
+	}
+]

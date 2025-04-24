@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /panel/
+Disallow: /authentication/admin/
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+Sitemap: https://www.RahaGozar.com/sitemap.xml

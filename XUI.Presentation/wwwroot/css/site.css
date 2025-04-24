@@ -1,4 +1,4 @@
-html {
+﻿html {
   font-size: 14px;
 }
 
@@ -29,3 +29,35 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+/* --- استایل برای وسط‌چین کردن لودر تاریخچه چت --- */
+
+/* 1. والد (محوطه مکالمه) رو Relative کن */
+#chat-conversation {
+    position: relative; /* این باعث می‌شه المنت‌های Absolute داخلش، نسبت به این موقعیت‌دهی بشن */
+    min-height: 200px; /* یک ارتفاع حداقلی بده که لودر بتونه وسط قرار بگیره حتی اگه محتوا خالیه */
+}
+
+/* 2. خود لودر رو Absolute و در مرکز قرار بده */
+#elmLoader {
+    position: absolute; /* موقعیت مطلق نسبت به والد relative */
+    top: 50%; /* 50% از بالای والد فاصله بگیره */
+    left: 50%; /* 50% از چپ والد فاصله بگیره */
+    transform: translate(-50%, -50%); /* به اندازه نصف عرض و ارتفاع خودش به بالا و چپ منتقل بشه تا دقیقا وسط بیفته */
+    z-index: 10; /* مطمئن شو که لودر روی محتوای دیگه (مثل پیام "شروع گفتگو") قرار می‌گیره */
+}
+
+/* --- (اختیاری) استایل برای لودر کانال اگر داری --- */
+/* #channel-chat-conversation { /* آیدی والد کانال */
+/*  position: relative;
+/*  min-height: 200px;
+/* }
+
+/* #elmLoaderChannel {
+/*  position: absolute;
+/*  top: 50%;
+/*  left: 50%;
+/*  transform: translate(-50%, -50%);
+/*  z-index: 10;
+/* }
+*/

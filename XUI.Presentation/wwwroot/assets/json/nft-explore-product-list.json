@@ -1,0 +1,166 @@
+[
+    {
+        "id": 1,
+        "productImg": "../../assets/images/gif//img-3.gif",
+        "like": true,
+        "title": "پیاده‌روی در آسمان",
+        "category": "هنر",
+        "totalLikes": "37.41k",
+        "highBid": "10.35ETH",
+        "price": "14.167"
+    },
+    {
+        "id": 2,
+        "productImg": "../../assets/images/nft/img-03.jpg",
+        "like": false,
+        "salesType": "On Auction",
+        "title": "پرتره فیلتر شده خلاقانه",
+        "category": "عکاسی",
+        "totalLikes": "19.29k",
+        "highBid": "75.3ETH",
+        "price": "67.36"
+    },
+    {
+        "id": 3,
+        "productImg": "../../assets/images/nft/img-02.jpg",
+        "like": true,
+        "salesType": "Has Offers",
+        "title": "کریستوفر",
+        "category": "موسیقی",
+        "totalLikes": "23.63k",
+        "highBid": "412.30ETH",
+        "price": "394.7"
+    },
+    {
+        "id": 4,
+        "productImg": "../../assets/images/gif//img-4.gif",
+        "like": false,
+        "salesType": "Has Offers",
+        "title": "واقعیت تکامل‌یافته",
+        "category": "ویدیو",
+        "totalLikes": "15.93k",
+        "highBid": "2.75ETH",
+        "price": "3.167"
+    },
+    {
+        "id": 5,
+        "productImg": "../../assets/images/nft/img-01.jpg",
+        "like": false,
+        "salesType": "Has Offers",
+        "title": "نقاشی صورت انتزاعی",
+        "category": "مجموعه‌ها",
+        "totalLikes": "14.85k",
+        "highBid": "122.34ETH",
+        "price": "97.8"
+    },
+    {
+        "id": 6,
+        "productImg": "../../assets/images/nft/img-05.jpg",
+        "like": true,
+        "salesType": "On Auction",
+        "title": "ماکاک دم دراز",
+        "category": "هنر",
+        "totalLikes": "64.10k",
+        "highBid": "874.01ETH",
+        "price": "745.14"
+    },
+    {
+        "id": 7,
+        "productImg": "../../assets/images/nft/img-06.jpg",
+        "like": true,
+        "salesType": "On Auction",
+        "title": "هنر بدن رباتیک",
+        "category": "هنر",
+        "totalLikes": "36.42k",
+        "highBid": "41.658 ETH",
+        "price": "34.81"
+    },
+    {
+        "id": 8,
+        "productImg": "../../assets/images/gif//img-2.gif",
+        "like": false,
+        "salesType": "On Auction",
+        "title": "پرتره‌های مد روز",
+        "category": "سبک 3d",
+        "totalLikes": "94.1k",
+        "highBid": "674.92 ETH",
+        "price": "563.81"
+    },
+    {
+        "id": 9,
+        "productImg": "../../assets/images/nft/img-04.jpg",
+        "like": true,
+        "salesType": "Has Offers",
+        "title": "اسمایلوورز کریپتو",
+        "category": "کارت‌های کریپتو",
+        "totalLikes": "34.12k",
+        "highBid": "41.658 ETH",
+        "price": "34.81"
+    },
+    {
+        "id": 10,
+        "productImg": "../../assets/images/gif//img-1.gif",
+        "like": false,
+        "salesType": "On Auction",
+        "title": "هنر و فرهنگ الگوها",
+        "category": "هنر",
+        "totalLikes": "8.42k",
+        "highBid": "9.64ETH",
+        "price": "14.167"
+    },
+    {
+        "id": 11,
+        "productImg": "../../assets/images/nft/img-03.jpg",
+        "like": false,
+        "salesType": "On Auction",
+        "title": "پرتره فیلتر شده خلاقانه",
+        "category": "ویدیو",
+        "totalLikes": "19.29k",
+        "highBid": "75.3ETH",
+        "price": "267.36"
+    },
+    {
+        "id": 12,
+        "productImg": "../../assets/images/gif//img-4.gif",
+        "like": false,
+        "salesType": "Has Offers",
+        "title": "واقعیت تکامل‌یافته",
+        "category": "هنر",
+        "totalLikes": "15.93k",
+        "highBid": "2.75ETH",
+        "price": "324.26"
+    },
+    {
+        "id": 13,
+        "productImg": "../../assets/images/nft/img-01.jpg",
+        "like": false,
+        "salesType": "Has Offers",
+        "title": "نقاشی صورت انتزاعی",
+        "category": "عکاسی",
+        "totalLikes": "14.85k",
+        "highBid": "122.34ETH",
+        "price": "245.8"
+    },
+    {
+        "id": 14,
+        "productImg": "../../assets/images/nft/img-05.jpg",
+        "like": true,
+        "salesType": "On Auction",
+        "title": "ماکاک دم دراز",
+        "category": "مجموعه‌ها",
+        "totalLikes": "64.10k",
+        "highBid": "874.01ETH",
+        "price": "340.14"
+    },
+    {
+        "id": 15,
+        "productImg": "../../assets/images/nft/img-06.jpg",
+        "like": true,
+        "salesType": "On Auction",
+        "title": "هنر بدن رباتیک",
+        "category": "عکاسی",
+        "totalLikes": "36.42k",
+        "highBid": "41.658 ETH",
+        "price": "121.81"
+    }
+]
